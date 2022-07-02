@@ -33,7 +33,7 @@
   <h3> I'm 20 years old Self-taught developer from India.</h3>
 </p>
 
-- 🥀 Learning Node.js & Angular
+- Learning Node.js & Angular
 
 - I do Front-end :heart:
 
