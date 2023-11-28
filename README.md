@@ -37,7 +37,7 @@
 
 - I do Front-end :heart:
 
-- Living my life to the fullest.
+- Working on something new.
 
 - 💬 Connect? lets get social 👉🏼
   [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/khushi-saini-526990212)
