@@ -23,7 +23,7 @@
  </p> -->
 
  <h5 align="center">
-   <i>⚡️I don’t trust people who use Light Theme XD⚡️</i>
+   <i>⚡️"Don't trust Light Theme users XD"⚡️</i>
   </h5>
  
  
