@@ -33,13 +33,13 @@
   <h3> I'm 21 years old Self-taught developer from India.</h3>
 </p>
 
-- Learning Node.js & Angular
+- Learning Node.js & React
 
 - I do Front-end :heart:
 
 - Working on something new.
 
-- 💬 Connect? lets get social 👉🏼
+- 💬 Connect? let's get social 👉🏼
   [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/khushi-saini-526990212)
 
 <!--  -->
