@@ -28,7 +28,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://camo.githubusercontent.com/f905843bc65cf3acd01830b0efd9fb4d97a2f30abf1f29642af35e4de0aabda7/68747470733a2f2f696e737469747574652e63617265657267756964652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
+<img alt="programming gif" align="right" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p align="center">
   <h3> I'm 21 years old Self-taught developer from India.</h3>
 </p>
@@ -43,6 +43,16 @@
   [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/khushi-saini-526990212)
 
 <!--  -->
+<br>
+<be>
+<br>
+
+<br>
+
+<br>
+
+<br>
+<be>
 <br>
 <br>
 
