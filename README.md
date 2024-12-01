@@ -14,7 +14,7 @@
  </p> -->
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 🙎 Khushi Saini | 💻 Full stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> 🙎 Khushi Saini | 💻 Full Stack Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <!-- <p align="center">
@@ -30,7 +30,7 @@
 <br />
 <img alt="programming gif" align="right" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" />
 <p align="center">
-  <h3> I'm 21 years old Self-taught developer from India.</h3>
+  <h3> I'm 22 years old Self-taught developer.</h3>
 </p>
 
 - Learning Nest.js
